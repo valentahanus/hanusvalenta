@@ -1,8 +1,7 @@
 # Hello there
 
-You've propably came here to lookup or steal my code >:(
-keep going i can't stop you
+If you came here to lookup or steal my code keep going i can't stop you
 
-if there is a problem somewhere, please create an issue or write to me an [email](hanus.valenta@gmail.com)
+and if there is a problem somewhere, please create an issue or write to me an [email](hanus.valenta@gmail.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K8AP2OI)
