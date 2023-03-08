@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=90&size=30&duration=10000&pause=10000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there;The+Matrix+has+You...;Follow+the+white+rabbit.)](https://starwars.fandom.com/wiki/Obi-Wan_Kenobi)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=90&size=30&duration=10000&pause=10000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there;The+Matrix+has+You...;Follow+the+white+rabbit.)](https://www.youtube.com/watch?v=PJ8VtEw5DgE&t=8s)
 
 If you came here to lookup or steal my code -> keep going I can't stop you...
 
