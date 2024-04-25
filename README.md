@@ -6,4 +6,4 @@ If there is a problem somewhere -> please create an issue or write to me an [ema
 
 If you see a rage comment or anime reference in commit message -> that's normal and none of your business
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K8AP2OI) ![alt text](https://media.tenor.com/479c0ktRaT4AAAAi/pjsekai-project-sekai.gif)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K8AP2OI)
